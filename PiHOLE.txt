@@ -1,0 +1,8 @@
+# Dies ist eine eigene Liste fur den Pihole
+# Sie dient erstmal nur als Test
+# 04.01.2023 09:58
+
+||bild.de^
+otto.de
+||heise.de^
+express.de
