@@ -1,6 +1,6 @@
 # Dies ist eine eigene Liste fur den Pihole
 # Sie dient erstmal nur als Test
-# 04.01.2023 09:58
+# Zuletzt aktualisiert: 04.10.2023 10:36 Uhr
 
 ||bild.de^
 otto.de
